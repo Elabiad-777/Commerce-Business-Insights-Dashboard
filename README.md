@@ -1,2 +1,35 @@
-# Commerce-Business-Insights-Dashboard
-Interactive Streamlit dashboard for analyzing customer support data by channels, shifts, tenure, and CSAT scores. Built with Python, Pandas, and Plotly. Helps identify performance trends and improve service quality.
+# 📞 Customer Support Dashboard
+
+An interactive Streamlit dashboard for analyzing customer support data across channels, shifts, tenure, and CSAT scores.
+
+![Dashboard Preview](preview.png) <!-- Add a screenshot if available -->
+
+---
+
+## 📌 Features
+
+- 📊 Overview of total tickets, unique categories, and average CSAT
+- 📞 Channel distribution pie chart
+- ⭐ CSAT score distribution
+- 🕓 Agent shift analysis
+- 🎯 Tenure bucket performance
+- 🗂️ Raw data preview and download
+
+---
+
+## 🛠️ Tech Stack
+
+- Python
+- Streamlit
+- Pandas
+- Plotly Express
+
+---
+
+## ▶️ How to Run Locally
+
+1. **Clone the repo:**
+
+```bash
+git clone https://github.com/YOUR_USERNAME/customer-support-dashboard.git
+cd customer-support-dashboard
