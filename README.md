@@ -2,7 +2,8 @@
 
 An interactive Streamlit dashboard for analyzing customer support data across channels, shifts, tenure, and CSAT scores.
 
-![Dashboard Preview](preview.png) <!-- Add a screenshot if available -->
+![Dashboard Preview](![image](https://github.com/user-attachments/assets/7e643f87-cf1c-4d60-89c4-aab892ae99cb)
+) <!-- Add a screenshot if available -->
 
 ---
 
